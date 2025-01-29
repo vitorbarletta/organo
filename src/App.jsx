@@ -24,7 +24,7 @@ function App() {
       corSecundaria: '#F0F8E2'
     },
     {
-      nome: 'DevOps',
+      nome: 'Dev-Ops',
       corPrimaria: '#E06B69',
       corSecundaria: '#FDE7E8'
     }, 
