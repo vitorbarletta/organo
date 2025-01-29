@@ -1,0 +1,18 @@
+.timefield{
+    text-align: center;
+    padding: 32px;
+}
+
+.timefield h3{
+    font-size: 25px;
+    border-bottom: 4px solid;
+    display: inline-block;
+    padding-bottom: 8px;
+}
+
+.timefield .colaboradores{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 32px;
+    flex-wrap: wrap;
+}
